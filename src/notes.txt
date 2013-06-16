@@ -7,14 +7,5 @@ matplotlib
 setting up ipython:
 http://www.lowindata.com/2013/installing-scientific-python-on-mac-os-x/
 
-for non-homebrew Python, you need to amend your PYTHONPATH like so:
-  export PYTHONPATH=/usr/local/lib/python2.7/site-packages:$PYTHONPATH
-
-
-ipython:
-
-ipython notebook --pylab inline
-
-
 # bayesian analysis book
 # https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
