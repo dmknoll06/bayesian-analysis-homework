@@ -9,3 +9,17 @@ http://www.lowindata.com/2013/installing-scientific-python-on-mac-os-x/
 
 # bayesian analysis book
 # https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+
+
+
+
+Bayesian inference
+ - updating your beliefs after considering new evidence, in a structured way
+ - frequentist probablility is about the long run frequency of events, e.g. poker drawing odds
+ - bayesians interpret probablitiy as a measure of belief or confidence of an event occurring
+
+Sample sizes are never large. Once N is large enough, generally you're just subdividing the data and trying to solve the next problem
+
+Most Big data problems are solved by simple algorithms today. e.g. least squares linear regression, LASSO regression, EM algorithm. Difficulties are mainly computational, storage and execution challenges.
+
+The most difficult analytics problems involve medium and small data. not-quite-big-enough datasets.
