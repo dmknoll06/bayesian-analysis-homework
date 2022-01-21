@@ -1,5 +1,5 @@
 Pygments==2.7.4
-ipython==0.13.2
+ipython==7.16.3
 matplotlib==1.2.1
 numpy==1.7.1
 pymc==2.2
