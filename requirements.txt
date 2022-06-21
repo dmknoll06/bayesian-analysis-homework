@@ -1,7 +1,7 @@
 Pygments==2.7.4
 ipython==0.13.2
 matplotlib==1.2.1
-numpy==1.7.1
+numpy==1.22.0
 pymc==2.2
 pyzmq==13.1.0
 scipy==0.12.0
